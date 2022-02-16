@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://ssang:MongoAtlas@devmeet.4o93d.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
+}
