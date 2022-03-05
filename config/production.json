@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://ssang:MongoAtlas@devmeet.4o93d.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "acf2dff785536b1be3cf",
+    "githubSecret": "fcffac8a881b01abe134344ec78bf4a94753acf5"
+}
